@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "181737852115",
+    "firebase_url": "https://chat-app-d0b68.firebaseio.com",
+    "project_id": "chat-app-d0b68",
+    "storage_bucket": "chat-app-d0b68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181737852115:android:23fc91ca23dcd041",
+        "android_client_info": {
+          "package_name": "com.example.angitha.hichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181737852115-l341h8mi248pa993vvdge1rqbvi3cqc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.angitha.hichat",
+            "certificate_hash": "1d993cfe2771a789ae1fc713e2f098fd06efba9e"
+          }
+        },
+        {
+          "client_id": "181737852115-n4ug1d00pncnlgpt53rkkqomkeu68vpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD76pgVrltB1bd_HPnCRe7GOlqp8_eONIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181737852115-n4ug1d00pncnlgpt53rkkqomkeu68vpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
